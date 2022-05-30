@@ -1,4 +1,5 @@
 #TED AULA 11
+#QUESTÃO 1
 
 linha,coluna = (10,10)
 from random import randint
